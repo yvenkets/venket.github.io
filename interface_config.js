@@ -43,7 +43,7 @@ var interfaceConfig = {
     "profile",
     "calendar"
   ],
-  "SHADOW_COLOR": "#ffffff",
+  "SHADOW_COLOR": "#abebed",
   "SHOW_BRAND_WATERMARK": false,
   "SHOW_CONTACTLIST_AVATARS": false,
   "SHOW_JITSI_WATERMARK": false,
